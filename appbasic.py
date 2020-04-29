@@ -1,0 +1,2 @@
+name = 'monu'
+print(name)
